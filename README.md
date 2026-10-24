@@ -1,27 +1,12 @@
-# PROJECT TITLE
-SHORT ONE-SENTENCE DESCRIPTION OF WHAT THE PROJECT DOES.
+# Tech Conference Schedule
+Simple HTML tutorial on how to utilize tables.
 Assignment provided by FreeCodeCamp.org
 
 ## User Stories
-* 
+* Create a table using HTML
 
 ## Tools & Languages Used
-* 
-
-## Features
-* 
+* HTML
 
 ## Concepts Learned
-* 
-
-## Examples
-```
-JavaScript
-
-PLACE CODE HERE
-
-```
-
-## How to Run
-1. Clone the repository
-2. Run the script using Node.js or import the function into any JS file
+* Organization of tables in HTML using "scope" for accessibilty
